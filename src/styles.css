@@ -28,3 +28,15 @@
   justify-content: space-evenly;
   align-items: center;
 }
+.title {
+  text-decoration: underline;
+  text-decoration-color: lightslategrey;
+}
+.categories {
+  padding: 10px;
+  margin: 10;
+}
+.btn {
+  padding: 10px;
+  margin: 10px;
+}
