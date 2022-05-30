@@ -9,7 +9,7 @@ console.log(allCategories);
 
 export default function App() {
   const [menuItems, setMenuItems] = useState(items);
-  const [categories, setCategories] = useState([allCategories]);
+  const [categories, setCategories] = useState(allCategories);
 
   const filterItems = (category) => {
     if (category === "all") {

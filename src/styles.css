@@ -21,13 +21,7 @@
 .navbar {
   background-color: indigo;
 }
-.btn {
-  margin: 10px;
-  padding: 10px;
-  display: flex;
-  justify-content: space-evenly;
-  align-items: center;
-}
+
 .title {
   text-decoration: underline;
   text-decoration-color: lightslategrey;
